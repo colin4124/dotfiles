@@ -1,0 +1,3 @@
+xcape -e '#37=Escape'
+xcape -e '#66=Escape'
+xmodmap ~/.Xmodmap
